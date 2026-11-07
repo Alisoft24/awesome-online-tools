@@ -341,6 +341,7 @@ Useful utilities include:
 - Timestamp Converter
 - Hash Generator
 - Regex Tester
+- [ASCII Images](https://ascii-images.com/image-to-ascii) — Free, no-account browser tool for converting images to ASCII text.
 
 ---
 
